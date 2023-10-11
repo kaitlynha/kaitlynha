@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaitlynha
-- 👀 I’m interested in software engineering and cybersecurity
+- 👀 I’m interested in software engineering and web development
 - 🌱 I’m currently coding in Python
 - 💞️ I’m looking to start a project
 - 📫 How to reach me ...
